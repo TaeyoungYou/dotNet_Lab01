@@ -1,0 +1,7 @@
+C:\Users\taeyoung\OneDrive\Documents\GitHub\dotNet_Lab01\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\taeyoung\OneDrive\Documents\GitHub\dotNet_Lab01\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\taeyoung\OneDrive\Documents\GitHub\dotNet_Lab01\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\taeyoung\OneDrive\Documents\GitHub\dotNet_Lab01\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+C:\Users\taeyoung\OneDrive\Documents\GitHub\dotNet_Lab01\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\taeyoung\OneDrive\Documents\GitHub\dotNet_Lab01\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\taeyoung\OneDrive\Documents\GitHub\dotNet_Lab01\Lab02\Lab02\obj\Debug\Lab02.pdb
